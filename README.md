@@ -1,10 +1,14 @@
-# shop_app_flutter
+# Shopping App UI/UX
 
-A new Flutter project.
+A Shopping app UI/UX Flutter project.
+Simple UI/UX project build using **Provider**.
+
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+- Project is plug and play.
+- no modification is required.
 
 A few resources to get you started if this is your first Flutter project:
 
