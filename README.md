@@ -2,6 +2,7 @@
 
 A Shopping app UI/UX Flutter project.
 Simple UI/UX project build using **Provider**.
+> For Sample Check the Sample Folder a demo video is available.
 
 
 ## Getting Started
